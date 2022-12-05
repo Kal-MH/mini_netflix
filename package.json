@@ -1,0 +1,29 @@
+{
+  "name": "fedc3-7_css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bundle": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prgrms-fe-devcourse/FEDC3-7_CSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prgrms-fe-devcourse/FEDC3-7_CSS/issues"
+  },
+  "homepage": "https://github.com/prgrms-fe-devcourse/FEDC3-7_CSS#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.2",
+    "file-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.7.1",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
